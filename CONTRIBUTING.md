@@ -2,3 +2,4 @@
 
 Notes and usage details for react.
 - clarify the setup steps
+- fix a small wording issue
