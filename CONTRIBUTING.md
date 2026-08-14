@@ -32,3 +32,4 @@ Notes and usage details for react.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
